@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/yuriandrad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriandrad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriandrad&layout=compact&langs_count=7&theme=radical"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=yuriandrad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriandrad&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@
 
   <div> 
   
-    ![Snake animation](https://github.com/yuriandrad/yuriandrad/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/yuriandrad)
   
   </div>
   
