@@ -17,7 +17,7 @@
 </div>
 
 <div id="thmbadge" align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="200"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="300"/>
 </div>
 
 ---
