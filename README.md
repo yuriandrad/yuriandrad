@@ -26,14 +26,14 @@ I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: In my free time, i solve problems and CTF´s in TryHackMe and HackTheBox.
 
-- :mailbox:How to reach me: get out of the matrix
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
+- :mailbox:How to reach me: Get out of the matrix
+  
 <div id="thmbadge" align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="150"/>
 </div>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
