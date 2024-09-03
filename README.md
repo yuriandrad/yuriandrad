@@ -9,12 +9,13 @@
     <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logoColor=white" alt="TryHackMe Badge"/>
   </a>
 </div>
-<div align="center">
-      <img src="https://komarev.com/ghpvc/?username=yuriandrad&style=flat-square&color=blue"/>
-</div>
 <div id="thmbadge" align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="250"/>
 </div>
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=yuriandrad&style=flat-square&color=blue"/>
+</div>
+
 <div align="center">
     Welcome to my dream!
 </div>
