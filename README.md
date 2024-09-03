@@ -16,10 +16,6 @@
       <img src="https://komarev.com/ghpvc/?username=yuriandrad&style=flat-square&color=blue"/>
 </div>
 
-<div align="center">
-    Welcome to my dream!
-</div>
-
 ---
 ### :man_technologist: About Me :
 I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
