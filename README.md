@@ -23,6 +23,10 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <div id="thmbadge" align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="250"/>
 </div>
