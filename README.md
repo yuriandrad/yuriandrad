@@ -11,6 +11,8 @@
   </a>
 </div>
 
-<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=yuriandrad&style=flat-square&color=blue" alt=""/>
+
+<div id="thmbadge" align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="250"/>
 </div>
