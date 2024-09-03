@@ -17,7 +17,7 @@
 
 <h1>
   Heyy welcome to the matrix!
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFnYWhpd3hkajB4ZHdvcXhva3Zoc2dnbThiMnNkZ2E1MzFoMnhrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ3HV6ltlpF9ZZUumm/giphy.gif"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFnYWhpd3hkajB4ZHdvcXhva3Zoc2dnbThiMnNkZ2E1MzFoMnhrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ3HV6ltlpF9ZZUumm/giphy.gif" width="90px"/>
 </h1>
 
 <div id="thmbadge" align="center">
