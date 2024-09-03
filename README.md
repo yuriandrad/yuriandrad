@@ -36,3 +36,18 @@ I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitbook/gitbook-line-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>&nbsp;
+</div>
