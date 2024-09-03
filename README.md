@@ -17,8 +17,9 @@
 
 <div align="center">
 <h1>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t5Y3Z4c25iYW93NzNuazlpNWZpcmpiYmNidWowa2p0NDBoZjFheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="200px"/>
   Welcome to the matrix!
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t5Y3Z4c25iYW93NzNuazlpNWZpcmpiYmNidWowa2p0NDBoZjFheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="150px"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t5Y3Z4c25iYW93NzNuazlpNWZpcmpiYmNidWowa2p0NDBoZjFheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="200px"/>
 </h1>
 </div>
 
