@@ -54,8 +54,7 @@ I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### 👽 Keep Hacking
-### 🤖: Keep Learning
+### 👽 Keep Hacking 👽 Keep Learning 👽
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVqb3ViZmhhc3N5aXZiNHRieGM2NXJ6cDE1OGV2amg5OHl3Z3oxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoQiOO2AzHjUvLGRes/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVqb3ViZmhhc3N5aXZiNHRieGM2NXJ6cDE1OGV2amg5OHl3Z3oxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoQiOO2AzHjUvLGRes/giphy.gif"/>
 </div>
