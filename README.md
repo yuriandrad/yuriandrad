@@ -15,6 +15,10 @@
       <img src="https://komarev.com/ghpvc/?username=yuriandrad&style=flat-square&color=blue"/>
 </div>
 
+<h1>
+  Heyy welcome to the matrix!
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFnYWhpd3hkajB4ZHdvcXhva3Zoc2dnbThiMnNkZ2E1MzFoMnhrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ3HV6ltlpF9ZZUumm/giphy.gif" width="30px"/>
+</h1>
 
 <div id="thmbadge" align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="250"/>
