@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdydGFjaWhlMDNuajF6bnR4aHF3NmQwZng2NWtra2V0YjAxYnBrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
 
