@@ -19,7 +19,7 @@
 ---
 ### :man_technologist: About Me :
 I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-- :telescope: I’m working as a Security Analyst and becoming a bug bounter 
+- :telescope: I’m working as a cybersecurity analyst and becoming a bug bounter 
 
 - :seedling: Exploring forensics, malware analysis, reverse engineering and everything possible
 
