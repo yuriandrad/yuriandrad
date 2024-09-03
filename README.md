@@ -8,10 +8,11 @@
   </a>
   <a href="https://tryhackme.com/p/revel.andrade">
     <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logoColor=white" alt="TryHackMe Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=yuriandrad&style=flat-square&color=blue"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=yuriandrad&style=flat-square&color=blue" alt=""/>
+
 
 <div id="thmbadge" align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="250"/>
