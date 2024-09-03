@@ -19,8 +19,8 @@
 <div id="thmbadge" align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="200"/>
 </div>
----
 
+---
 ### :man_technologist: About Me :
 I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 - :telescope: I’m working as a Security Analyst and becoming a bug bounter 
