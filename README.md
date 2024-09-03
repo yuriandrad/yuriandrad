@@ -3,5 +3,6 @@
 </div>
 
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" align="center">
+<div id="header" align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/revel.andrade.png" alt="TryHackMe" width="300"/>
+</div>
