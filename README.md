@@ -26,14 +26,11 @@ I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCE
 - :zap: In my free time, i solve problems and CTF´s in TryHackMe and HackTheBox
 
 - :mailbox:How to reach me: Get out of the matrix
-  
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
-
 ### :hammer_and_wrench: Languages, Tools and OS's :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp;
@@ -49,7 +46,6 @@ I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCE
 </div>
 
 ---
-
 ### 👽 Keep Hacking 👽 Keep Learning 👽
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVqb3ViZmhhc3N5aXZiNHRieGM2NXJ6cDE1OGV2amg5OHl3Z3oxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoQiOO2AzHjUvLGRes/giphy.gif"/>
