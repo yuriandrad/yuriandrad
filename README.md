@@ -11,12 +11,9 @@
 </div>
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=yuriandrad&style=flat-square&color=blue"/>
+    Welcome to my dream!
 </div>
-<div align="center">
-<a>
-  Welcome to my dream!
-</a>
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
