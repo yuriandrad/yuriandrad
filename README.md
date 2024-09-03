@@ -38,7 +38,7 @@ I am a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Tools and OS's :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" width="40" height="40"/>&nbsp;
