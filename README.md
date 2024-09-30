@@ -32,7 +32,6 @@ I'm a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
----
 <div align="center">
 👽 Keep Hacking 👽 Keep Learning 👽 
 </div>
