@@ -10,14 +10,10 @@ I'm a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: How to reach me: Get out of the matrix
 
----
-
 <div align=center>
 <a href="https://github.com/yuriandrad">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriandrad&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
----
 
 <div align="center">
 👽 Keep Hacking 👽 Keep Learning 👽 
