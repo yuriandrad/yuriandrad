@@ -9,19 +9,6 @@ I'm a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring forensics, malware analysis, reverse engineering and everything possible
 
 - :mailbox: How to reach me: Get out of the matrix
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yuriandrad&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yuriandrad&show_icons=true" />
-</picture>
-</div>
 
 ---
 
