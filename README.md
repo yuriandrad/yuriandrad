@@ -10,7 +10,17 @@ I'm a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: How to reach me: Get out of the matrix
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yuriandrad&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuriandrad&show_icons=true" />
+</picture>
 </div>
 
 ---
