@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdydGFjaWhlMDNuajF6bnR4aHF3NmQwZng2NWtra2V0YjAxYnBrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2157464"/>
 </div>
 
 
