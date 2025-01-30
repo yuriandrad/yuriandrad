@@ -15,6 +15,7 @@ I'm a pentester from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div align=center>
 <a href="https://github.com/yuriandrad">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriandrad&layout=compact&langs_count=7&theme=dracula"/>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2157464" style='border:none;'></iframe>
 </div>
 
 <div align="center">
